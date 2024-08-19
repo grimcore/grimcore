@@ -1,2 +1,2 @@
-# [[lucathehun]](https://github.com/lucathehun)
+# [lucathehun](https://github.com/lucathehun)
 
