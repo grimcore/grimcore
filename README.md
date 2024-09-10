@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm luca</h1>
+<h1 align="center">Hi 👋, i'm Luca</h1>
 <h3 align="center">I’m on a coding journey in private, hoping to start working as a dev soon.</h3>
 
 - 🌱 I’m currently learning/trying out **Various JS frameworks, Rust, C, …**
